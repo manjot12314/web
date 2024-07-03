@@ -1,0 +1,34 @@
+.navbar{
+    list-style-type: none;
+}
+.navbar ul{
+    list-style-type: none;
+}
+.navbar ul li{
+    list-style-type: none;
+}
+.navbar ul li a{
+    text-decoration: none;
+    float: left;
+    background-color: #daef59;
+    padding: 10px 20px 10px 20px;
+}
+.navbar ul li a:hover{
+    background-color: #000;
+    color: aliceblue;
+}
+.navbar p{
+    margin: 20px;
+    background-color:aquamarine;
+    padding: 40px;
+}
+.container{
+    width: 1170px;
+    height: auto;
+    margin: 0 auto;
+}
+.topheader{
+    width:100%;
+    height:200px;
+    background-color: burlywood;
+}

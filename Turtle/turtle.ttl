@@ -1,0 +1,16 @@
+@prefix ab: <http://learningsparql.com/ns/addressbook#>
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+@prefix rdfs: <https://www.w3.org/2000/01/rdf-schema#>
+
+ab:i0432
+ab:name "Sheela";
+ab:friend ab:i9771;
+ab:i8301
+ab:name "Ram";
+ab:daughter ab:i9771;
+ab:i9771
+ab:name "Reena";
+ab:friend
+rdfs:comment "Identifies someone's friend".
+ab:daughter
+rdfs:comment "Identifies someone's daughter".

@@ -1,0 +1,48 @@
+.container {
+    width: 1170px;
+    height: auto;
+    margin: 0 auto;
+}
+.container .header {
+    width: 1170px;
+    height: 200px;
+    background-color: turquoise;
+}
+.container .contentrow {
+    width: 1170px;
+    height: 200px;
+}
+.container .contentrow .content1 {
+    width: 390px;
+    height: 200px;
+    background-color:darkseagreen;
+    float: left;
+}
+.container .contentrow .content2 {
+    width: 390px;
+    height: 200px;
+    background-color:darksalmon;
+    float: left;
+}
+.container .contentrow .content3 {
+    width: 390px;
+    height: 200px;
+    background-color:burlywood;
+    float: left;
+}
+.container .contentrows {
+    width: 1170px;
+    height: 200px;
+}
+.container .contentrows .content4 {
+    width: 670px;
+    height:200px;
+    background-color: coral;
+    float: left;
+}
+.container .contentrows .content5 {
+    width: 500px;
+    height: 200px;
+    background-color: darkkhaki;
+    float: left;
+}

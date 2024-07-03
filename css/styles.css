@@ -1,0 +1,109 @@
+.container {
+    width: 1170px;
+    height: auto;
+    margin: auto;
+}
+.container .header {
+    width: 1170px;
+    height: 200px;
+    background-color: #BABDBF;
+}
+.container .contentrow1 {
+    width: 1170px;
+    height: 200px;
+}
+.container .contentrow1 .content1 {
+    width: 292px;
+    height: 200px;
+    background-color: #3F7373;
+    float: left;
+}
+.container .contentrow1 .content2 {
+    width: 292px;
+    height: 200px;
+    background-color: #BF754B;
+    float: left;
+}
+.container .contentrow1 .content3 {
+    width: 293px;
+    height: 200px;
+    background-color: #732B1A;
+    float: left;
+}
+.container .contentrow1 .content4 {
+    width: 293px;
+    height: 200px;
+    background-color: #500329;
+    float: left;
+}
+.container .contentrow2 {
+    width: 1170px;
+    height: 200px;
+}
+.container .contentrow2 .content5 {
+    width: 292px;
+    height: 200px;
+    background-color: #042940;
+    float: left;
+}
+.container .contentrow2 .content6 {
+    width: 292px;
+    height: 200px;
+    background-color: #005C53;
+    float: left;
+}
+.container .contentrow2 .content7 {
+    width: 586px;
+    height: 200px;
+    background-color: #0e946c;
+    float: left;
+}
+.container .contentrow3 {
+    width: 1170px;
+    height: 200px;
+}
+.container .contentrow3 .content8 {
+    width: 584px;
+    height: 200px;
+    background-color: #6593af;
+    float: left;
+}
+.container .contentrow3 .content9 {
+    width: 293px;
+    height: 200px;
+    background-color: #50e79c;
+    float: left;
+}
+.container .contentrow3 .content10 {
+    width: 293px;
+    height: 200px;
+    background-color: #48ce7b;
+    float: left;
+}
+.container .contentrow4 {
+    width: 1170px;
+    height: 200px;
+}
+.container .contentrow4 .content11 {
+    width: 292px;
+    height: 200px;
+    background-color: #6C733D;
+    float: left;
+}
+.container .contentrow4 .content12 {
+    width: 586px;
+    height: 200px;
+    background-color: #9DA65D;
+    float: left;
+}
+.container .contentrow4 .content13 {
+    width: 292px;
+    height: 200px;
+    background-color: #59573B;
+    float: left;
+}
+.container .footer {
+    width: 1170px;
+    height: 200px;
+    background-color: #2A8C82;
+}
